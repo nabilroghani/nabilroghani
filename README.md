@@ -40,19 +40,9 @@
 
 ---
 
-### 📊 GitHub Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilroghani&show_icons=true&theme=tokyonight&hide_border=true" alt="Nabil's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilroghani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
+  
   <b>⚡ Let's build something exceptional together!</b><br>
   Feel free to reach out via <a href="mailto:nabiltechlogic.dev@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/nabilroghani">LinkedIn</a>.
 </p>
